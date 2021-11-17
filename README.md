@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Techie Palan,
-- 👀 I’m interested in Open stack development and SAP Business modules.
+- 👀 I’m interested in SAP Business modules.
 - 🌱 I’m currently learning SAP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me through boopalan020@gmail.com.
